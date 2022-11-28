@@ -1,0 +1,13 @@
+* {
+  color: white;
+  font-family: Ubuntu;
+  font-size: larger;
+}
+
+div {
+  background-color: red;
+  font-size: 3vh;
+  padding: 0px 2px;
+  font-weight: bolder;
+  text-align: center;
+}
