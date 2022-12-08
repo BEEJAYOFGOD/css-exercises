@@ -1,7 +1,10 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
+* {
+  box-sizing: border-box;
+}
 img {
   width: 100px;
   height: 100px;
